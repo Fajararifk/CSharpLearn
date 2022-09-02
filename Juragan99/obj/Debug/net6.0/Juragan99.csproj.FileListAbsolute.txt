@@ -1,0 +1,15 @@
+D:\BelajarC\Juragan99\bin\Debug\net6.0\Juragan99.exe
+D:\BelajarC\Juragan99\bin\Debug\net6.0\Juragan99.deps.json
+D:\BelajarC\Juragan99\bin\Debug\net6.0\Juragan99.runtimeconfig.json
+D:\BelajarC\Juragan99\bin\Debug\net6.0\Juragan99.dll
+D:\BelajarC\Juragan99\bin\Debug\net6.0\Juragan99.pdb
+D:\BelajarC\Juragan99\obj\Debug\net6.0\Juragan99.csproj.AssemblyReference.cache
+D:\BelajarC\Juragan99\obj\Debug\net6.0\Juragan99.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarC\Juragan99\obj\Debug\net6.0\Juragan99.AssemblyInfoInputs.cache
+D:\BelajarC\Juragan99\obj\Debug\net6.0\Juragan99.AssemblyInfo.cs
+D:\BelajarC\Juragan99\obj\Debug\net6.0\Juragan99.csproj.CoreCompileInputs.cache
+D:\BelajarC\Juragan99\obj\Debug\net6.0\Juragan99.dll
+D:\BelajarC\Juragan99\obj\Debug\net6.0\refint\Juragan99.dll
+D:\BelajarC\Juragan99\obj\Debug\net6.0\Juragan99.pdb
+D:\BelajarC\Juragan99\obj\Debug\net6.0\Juragan99.genruntimeconfig.cache
+D:\BelajarC\Juragan99\obj\Debug\net6.0\ref\Juragan99.dll

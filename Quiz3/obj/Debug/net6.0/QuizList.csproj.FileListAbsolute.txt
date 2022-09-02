@@ -1,0 +1,15 @@
+D:\BelajarC\Quiz3\bin\Debug\net6.0\QuizList.exe
+D:\BelajarC\Quiz3\bin\Debug\net6.0\QuizList.deps.json
+D:\BelajarC\Quiz3\bin\Debug\net6.0\QuizList.runtimeconfig.json
+D:\BelajarC\Quiz3\bin\Debug\net6.0\QuizList.dll
+D:\BelajarC\Quiz3\bin\Debug\net6.0\QuizList.pdb
+D:\BelajarC\Quiz3\obj\Debug\net6.0\QuizList.csproj.AssemblyReference.cache
+D:\BelajarC\Quiz3\obj\Debug\net6.0\QuizList.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarC\Quiz3\obj\Debug\net6.0\QuizList.AssemblyInfoInputs.cache
+D:\BelajarC\Quiz3\obj\Debug\net6.0\QuizList.AssemblyInfo.cs
+D:\BelajarC\Quiz3\obj\Debug\net6.0\QuizList.csproj.CoreCompileInputs.cache
+D:\BelajarC\Quiz3\obj\Debug\net6.0\QuizList.dll
+D:\BelajarC\Quiz3\obj\Debug\net6.0\refint\QuizList.dll
+D:\BelajarC\Quiz3\obj\Debug\net6.0\QuizList.pdb
+D:\BelajarC\Quiz3\obj\Debug\net6.0\QuizList.genruntimeconfig.cache
+D:\BelajarC\Quiz3\obj\Debug\net6.0\ref\QuizList.dll

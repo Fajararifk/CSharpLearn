@@ -1,0 +1,15 @@
+D:\BelajarC\Day4\bin\Debug\net6.0\Day3.exe
+D:\BelajarC\Day4\bin\Debug\net6.0\Day3.deps.json
+D:\BelajarC\Day4\bin\Debug\net6.0\Day3.runtimeconfig.json
+D:\BelajarC\Day4\bin\Debug\net6.0\Day3.dll
+D:\BelajarC\Day4\bin\Debug\net6.0\Day3.pdb
+D:\BelajarC\Day4\obj\Debug\net6.0\Day3.csproj.AssemblyReference.cache
+D:\BelajarC\Day4\obj\Debug\net6.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BelajarC\Day4\obj\Debug\net6.0\Day3.AssemblyInfoInputs.cache
+D:\BelajarC\Day4\obj\Debug\net6.0\Day3.AssemblyInfo.cs
+D:\BelajarC\Day4\obj\Debug\net6.0\Day3.csproj.CoreCompileInputs.cache
+D:\BelajarC\Day4\obj\Debug\net6.0\Day3.dll
+D:\BelajarC\Day4\obj\Debug\net6.0\refint\Day3.dll
+D:\BelajarC\Day4\obj\Debug\net6.0\Day3.pdb
+D:\BelajarC\Day4\obj\Debug\net6.0\Day3.genruntimeconfig.cache
+D:\BelajarC\Day4\obj\Debug\net6.0\ref\Day3.dll

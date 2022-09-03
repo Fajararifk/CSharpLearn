@@ -1,0 +1,14 @@
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\bin\Debug\net6.0\EFCore_NorthwindDB.deps.json
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\bin\Debug\net6.0\EFCore_NorthwindDB.runtimeconfig.json
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\bin\Debug\net6.0\EFCore_NorthwindDB.dll
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\bin\Debug\net6.0\EFCore_NorthwindDB.pdb
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\EFCore_NorthwindDB.csproj.AssemblyReference.cache
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\EFCore_NorthwindDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\EFCore_NorthwindDB.AssemblyInfoInputs.cache
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\EFCore_NorthwindDB.AssemblyInfo.cs
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\EFCore_NorthwindDB.csproj.CoreCompileInputs.cache
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\EFCore_NorthwindDB.dll
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\refint\EFCore_NorthwindDB.dll
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\EFCore_NorthwindDB.pdb
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\EFCore_NorthwindDB.genruntimeconfig.cache
+D:\CSharp\EntityFrameWork\EFCoreNorthwind\EFCore_NorthwindDB\obj\Debug\net6.0\ref\EFCore_NorthwindDB.dll

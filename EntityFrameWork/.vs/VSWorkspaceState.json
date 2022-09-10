@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EFCoreNorthwind",
+    "\\EFCoreNorthwind\\EFCore_NorthwindApp",
+    "\\EFCoreNorthwind\\EFCore_NorthwindDB",
+    "\\EFCoreNorthwind\\EFCore_NorthwindDB\\Migrations"
+  ],
+  "SelectedNode": "\\EFCoreNorthwind\\EFCore_NorthwindDB\\Migrations\\20220903202122_create_student.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,6 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
+    "\\01-Fundamental",
     "\\D4",
     "\\Day2",
     "\\Day4",
@@ -11,6 +11,5 @@
     "\\Quiz",
     "\\Quiz222"
   ],
-  "SelectedNode": "\\Day2\\ArrayCase.cs",
   "PreviewInSolutionExplorer": false
 }
